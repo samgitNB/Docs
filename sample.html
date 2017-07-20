@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<title>hello</title>
+
+<head>
+
+
+    <script>
+        $(document).ready(
+            function() {
+
+                $.getJSON('http://localhost:8080/saleTracker/saleType.json', {
+                        ajax: 'true'
+
+                    },
+                    function(data) {
+
+                        var html = '<option value="">--select--</option>';
+                        var len = data.length;
+                        for (var i = 0; i < len; i++) {
+                            html += '<option value="' + data[i].salesType + '">' + data[i].salesTypes + '<option>';
+
+                        }
+
+
+                        html += '<oprion>';
+                        $('#salesTypea').html(html);
+
+
+
+                    });
+            });
+    </script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
