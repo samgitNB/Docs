@@ -1,0 +1,29 @@
+
+https://spring.io/
+
+https://dzone.com/articles/how-springboot-autoconfiguration-magic-works
+https://stackoverflow.com/questions/44172261/how-spring-boot-application-works-internally
+http://www.dineshonjava.com/2016/06/essentials-key-components-and-internals-of-spring-boot-framework.html
+http://www.logicbig.com/tutorials/spring-framework/spring-boot/auto-config-mechanism/
+http://sivalabs.in/2016/03/why-springboot/
+
+Durby : 
+https://www.mkyong.com/spring/spring-embedded-database-examples/
+
+
+
+================================================================================================================
+
+spring work with maven and graddle
+EnableAutoConfiguration Annotaion (Spring boot )
+
+How spring boot does it  as a executable jar
+what EnableAutoConfiguration does
+create spring project with gradle
+What is BOM(maven) and its features
+Microservice design patterns and where to use it.?
+How to access private variable with out setter /getters (Java Reflection)
+
+JVM / JDK /Classloader
+
+
