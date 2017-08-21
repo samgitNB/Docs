@@ -1,26 +1,31 @@
--OOP Concept(correct)
--Collection Framworks
--Thread/MultiThread/Concurrent (method)
--Sorting 
--Generics (Why purpose)
+
+#OOP Concept(correct)
+#Collection Framworks
+#Comparable / Comparator
+#UML Design (class diagram etc)
+#Thread/MultiThread
+#Exception
+#String (String/BufferReader/Builder/)
+#Generics (Why purpose)
+#Design Patterns(Basic)
+#Sorting 
+
 -JVM
--Comparable / Comparator
-#Overriding / Overriding Loading
--Exception
--String (String/BufferReader/Builder/)
 -Streams(inputREader/Streasm)
--Design Patterns
+-Concurrent (Thread)
 -JDBC
 -WebServer/Application Server (tomcat/glassFish/jboss)
 -Servlet (basic)
 -3 tiers Archeture
+-MVC Archtecture
 ==============================================================
-UML Design (class diagram etc)
+
 Database normalizing(1NF...)
 Sql Query (simples code query)
 
 ==============================================================
-
--MVC Archtecture
 -Spring-IOC/DI/using Design Patterns
+
+
+========================== Chrishantha trainning  ===================
 
