@@ -1,0 +1,37 @@
+
+#OOP Concept(correct)
+#Collection Framworks
+#Comparable / Comparator
+#UML Design (class diagram etc)
+#Thread/MultiThread
+#Exception
+#String (String/BufferReader/Builder/)
+#Generics (Why purpose)
+#Design Patterns(Basic)
+#Sorting 
+#JVM
+#Streams(inputREader/Streasm)
+
+
+-Concurrent (Thread)
+
+-WebServer/Application Server (tomcat/glassFish/jboss)
+
+-JDBC
+-Servlet (basic)
+-3 tiers Archeture
+-MVC Archtecture
+==============================================================
+
+Database normalizing(1NF...)
+Sql Query (simples code query)
+
+==============================================================
+-Spring-IOC/DI/using Design Patterns
+
+
+--------------------------------------------------
+
+
+https://www.ibm.com/developerworks/library/j-java-streams-1-brian-goetz/index.html
+
