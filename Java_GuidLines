@@ -11,16 +11,19 @@
 #Sorting 
 #JVM
 #Streams(inputREader/Streasm)
+#Servlet (jsp)
+#MVC Archtecture
 
+#WebServer/Application Server (tomcat/glassFish/jboss)
 
--Concurrent (Thread)
-
--WebServer/Application Server (tomcat/glassFish/jboss)
 
 -JDBC
--Servlet (basic)
+-Webservice (JAX-RS)
+
+-AJAX
+-Concurrent (Thread)
 -3 tiers Archeture
--MVC Archtecture
+
 ==============================================================
 
 Database normalizing(1NF...)
@@ -32,6 +35,8 @@ Sql Query (simples code query)
 
 --------------------------------------------------
 
-
+https://sqlzoo.net
 https://www.ibm.com/developerworks/library/j-java-streams-1-brian-goetz/index.html
+https://www.slideshare.net/Intertech/spring-mvc-training
+https://antoniogoncalves.org/2011/10/20/o-java-ee-6-application-servers-where-art-thou/
 
