@@ -13,28 +13,64 @@
 #Streams(inputREader/Streasm)
 #Servlet (jsp)
 #MVC Archtecture
-
 #WebServer/Application Server (tomcat/glassFish/jboss)
-
-
--JDBC
--Webservice (JAX-RS)
+#3 tiers Archeture
+#JDBC
+#Webservice (JAX-RS)
+#Spring-IOC/DI/using Design Patterns
 
 -AJAX
 -Concurrent (Thread)
--3 tiers Archeture
-
 ==============================================================
 
 Database normalizing(1NF...)
 Sql Query (simples code query)
 
 ==============================================================
--Spring-IOC/DI/using Design Patterns
+public class Main {
+
+    public static void main(String[] args) {
+
+
+//        Box<Water> integerBox = new Box<Water>();
+//
+//
+//        System.out.println(integerBox.get());
+        
+        List<C> cList = new ArrayList<>();
+        cList.add(new C());
+        cList.add(new C());
+        cList.add(new C());
+
+        collect(cList);
+    }
+
+    public static void collect(List<? extends C> list) {
+
+//        for (C c : list) {
+//            System.out.println(c);
+//        }
+        
+        list.add(new C());
+    }
+}
+
+
+class B {
+
+}
+
+class C extends B {
+
+}
+
+class D extends C {
+
+}
 
 
 --------------------------------------------------
-
+https://www.youtube.com/watch?v=D5HEshszlPE&list=PLkiVxfkxAYd2TAn--1BH1ERvYbHxh11Qs
 https://sqlzoo.net
 https://www.ibm.com/developerworks/library/j-java-streams-1-brian-goetz/index.html
 https://www.slideshare.net/Intertech/spring-mvc-training
