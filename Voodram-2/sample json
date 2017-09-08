@@ -1,0 +1,30 @@
+//Region
+ 
+ {
+"id":"01",
+"name":"Mathara"
+}
+ 
+ 
+ //Bungalow
+ 
+ {
+                "name":"Bungalow1",
+                "regionId":"01",
+                "bungalowCode":"001",
+                "bungalowRate":"001",
+                "address":"No:1/12,Street1,Kataragama",
+                "contactNumber":"0723467876",
+                "bungalowImageURL":"images/bunglow01.png",
+                "maximumOccupancy":"04",
+                "additionalDetails":
+                  {
+                  "numberOfACRooms":"05",
+                  "numberOfNonACRooms":"06"
+                  }            
+   }
+
+
+//check this out
+
+https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do

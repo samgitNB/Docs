@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.voodram.iml" filepath="$PROJECT_DIR$/.idea/modules/com.voodram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.voodram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.voodram_main.iml" group="com.voodram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.voodram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.voodram_test.iml" group="com.voodram" />
+    </modules>
+  </component>
+</project>
