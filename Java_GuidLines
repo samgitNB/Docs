@@ -19,60 +19,22 @@
 #Webservice (JAX-RS)
 #Spring-IOC/DI/using Design Patterns
 
--AJAX
 -Concurrent (Thread)
+-Garbage Collection (GC)
+-Inner class
+-AJAX
+
 ==============================================================
 
 Database normalizing(1NF...)
 Sql Query (simples code query)
-
-==============================================================
-public class Main {
-
-    public static void main(String[] args) {
-
-
-//        Box<Water> integerBox = new Box<Water>();
-//
-//
-//        System.out.println(integerBox.get());
-        
-        List<C> cList = new ArrayList<>();
-        cList.add(new C());
-        cList.add(new C());
-        cList.add(new C());
-
-        collect(cList);
-    }
-
-    public static void collect(List<? extends C> list) {
-
-//        for (C c : list) {
-//            System.out.println(c);
-//        }
-        
-        list.add(new C());
-    }
-}
-
-
-class B {
-
-}
-
-class C extends B {
-
-}
-
-class D extends C {
-
-}
-
-
 --------------------------------------------------
 https://www.youtube.com/watch?v=D5HEshszlPE&list=PLkiVxfkxAYd2TAn--1BH1ERvYbHxh11Qs
 https://sqlzoo.net
 https://www.ibm.com/developerworks/library/j-java-streams-1-brian-goetz/index.html
 https://www.slideshare.net/Intertech/spring-mvc-training
 https://antoniogoncalves.org/2011/10/20/o-java-ee-6-application-servers-where-art-thou/
+
+<--SQL Links--->
+http://www.dofactory.com/sql/where-in
 
