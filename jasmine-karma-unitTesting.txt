@@ -1,0 +1,39 @@
+https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
+
+https://github.com/atom-morgan/scotch-angular-testing
+
+https://taco.visualstudio.com/en-us/docs/unit-test-03-basic-testing/
+
+https://docs.angularjs.org/guide/unit-testing#additional-tools-for-testing-angularjs-applications
+
+http://karma-runner.github.io/0.12/config/browsers.html
+
+https://taco.visualstudio.com/en-us/docs/unit-test-03-basic-testing/
+
+connfig :
+https://blog.logentries.com/2015/01/unit-testing-with-karma-and-jasmine-for-angularjs/
+
+---------------------------------------------
+*google search => what is difference between karma and jasmine
+
+
+TDD vd BDD :
+https://www.youtube.com/watch?v=mT8QDNNhExg
+https://www.youtube.com/watch?v=NCInwrzPO6M
+https://www.youtube.com/watch?v=USzFoNs-iVU
+
+
+jesmin:
+https://www.youtube.com/watch?v=S6C9ZdjziaQ
+https://www.youtube.com/watch?v=NICaybXZiD0
+https://www.youtube.com/watch?v=Yod3tBt0beM&t=46s
+
+Karma : 
+https://www.youtube.com/watch?v=DdyU6dZCvCY ( karam setup)
+https://www.youtube.com/watch?v=FQwZrOAmMAc
+https://www.youtube.com/watch?v=YG5DEzaQBIc
+https://www.youtube.com/watch?v=yG4FH60fhUE&t=621s
+https://www.youtube.com/watch?v=YG5DEzaQBIc
+
+PhantomJS:
+https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928
