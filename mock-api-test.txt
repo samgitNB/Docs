@@ -1,0 +1,5 @@
+http://www.thejoemorgan.com/blog/2016/11/21/testing-apis-in-angular-2/
+
+https://angular.io/api/http/testing/MockBackend
+
+https://developers.livechatinc.com/blog/testing-angular-2-apps-routeroutlet-and-http/
